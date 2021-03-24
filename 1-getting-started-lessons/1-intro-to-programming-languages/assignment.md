@@ -9,3 +9,13 @@ There are many tools that a web developer may need that are on the [MDN document
 Exemplary | Adequate | Needs Improvement
 --- | --- | -- |
 |Explained why web developer would use tool| Explained how, but not why developer would use tool| Did not mention how or why a developer would use tool  |
+
+## Safety Net 
+1 - Linters
+Tools used to check code for errors, but also to check against style guidlines.
+
+## Transformation
+Use future code in a web compatible format.
+
+## Post-development
+Test tools.
